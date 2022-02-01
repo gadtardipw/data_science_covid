@@ -1,6 +1,6 @@
 # data_science_covid
 
-Data Science Project for Binus University International Data science class.
+Data science project for Binus University International data science class.
 
 Group members: Arvin Lee, Gadtardi Wongkaren
 
